@@ -2,9 +2,9 @@
 <h1>ERC20 Token for the WatchUGot Decentralized Application and Wallet</h1>
 <h2>Requirements</h2>
 <ul>
-  <li>Linux Ubuntu system (e.g. Ubuntu 16.04.4 LTS)</li>
-  <li>Solc</li>
-  <li>Web3 Injected Instance (Recommend Metamask)
+  <li>Linux Ubuntu system (e.g. Ubuntu 16.04.4 LTS)
+  Solc
+    Web3 Injected Instance (Recommend Metamask)</li>
 </ul>
 <h2>Solidity compiler</h2>
 <ul>
