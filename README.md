@@ -12,7 +12,7 @@
 </ul>
 <h2>Description</h2>
 <ul>
-  <li>The WatchUGot DApp https://wathcugot.co: A global social challenge application for promoting and incentivizing charitable fundraising endeavors.</li>
+  <li>The WatchUGot DApp https://watchugot.co: A global social challenge application for promoting and incentivizing charitable fundraising endeavors.</li>
   <li>The WatchUGot App http://wathcugot.online: The legacy (non-blokchain) version for the WatchUGot application
   <li>(RIVL) A mintable ERC20 utility token for use in the WatchUGot wallet and game environment</li>
   <li>Implemented in conjunction with the WatchUGot (WUG) ERC223 deflationary token & incentive model</li>
