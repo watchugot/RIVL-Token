@@ -1,4 +1,4 @@
-![alt text](https://watchugot.co/wp-content/uploads/ct-logos/logo_e1c2975e2a86829ec601025e4cf3e3ee_1x.png)
+![alt text](https://i2.wp.com/watchugot.co/wp-content/uploads/2018/08/WUG-Logo-Med.png?w=1100&ssl=1)
 # RIVL-Token
 <h1>ERC20 Token for the WatchUGot Decentralized Application and Wallet</h1>
 <h2>Requirements</h2>
